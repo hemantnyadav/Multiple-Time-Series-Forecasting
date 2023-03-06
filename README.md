@@ -8,3 +8,6 @@ Link to dataset: https://archive.ics.uci.edu/ml/datasets/Sales_Transactions_Data
 
 Link to dataset: https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-Quality+Data
 
+3. DeepAR to forecast energu consumption of 370 Household (370 Time Series)
+
+Link to dataset: https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
