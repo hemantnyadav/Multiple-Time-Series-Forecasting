@@ -11,3 +11,7 @@ Link to dataset: https://archive.ics.uci.edu/ml/datasets/Beijing+Multi-Site+Air-
 3. DeepAR to forecast energu consumption of 370 Household (370 Time Series)
 
 Link to dataset: https://archive.ics.uci.edu/ml/datasets/ElectricityLoadDiagrams20112014
+
+4. GluonTS Models on Multiple Time Series Forecasting
+
+It is comparing 4 models (DeepAR, TemporalFusionTransformer, N-Beats and Transformer) on retails product sale dataset. Dataset contains weekly sale of 811 products.
